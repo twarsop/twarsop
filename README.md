@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Tom 
+# 👋 Hi
 
-I'm currently working as a data engineer, but I'm interested in all aspects of application development.
+I’m Tom, a full stack python developer.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twarsop)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 twarsop/twarsop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
