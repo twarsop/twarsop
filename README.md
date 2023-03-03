@@ -4,6 +4,7 @@ I’m Tom, a full stack developer.
 
 I like:
 - 🐍Python
+- 🔨Building web apps
 - 📈Playing with data
 - ☕Drinking coffee
 
