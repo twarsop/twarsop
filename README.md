@@ -3,10 +3,10 @@
 I’m Tom, a full stack developer.
 
 I like:
-- 🐍Python
-- 🔨Building web apps
-- 📈Playing with data
-- ☕Drinking coffee
+- Writing C# #️⃣ and Python 🐍
+- Building web apps 🔨
+- Playing with data 📈
+- Drinking coffee ☕
 
 # Public Repo Stats
 
