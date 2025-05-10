@@ -14,4 +14,3 @@ Currently, I lead a backend algorithms team at DIGI-Steel.
 ### 💡 What I'm Working On
 - Building and optimizing backend systems for algorithmic problem-solving
 - Exploring Python web frameworks and AWS architecture via personal projects
-- Creating developer upskilling content 
